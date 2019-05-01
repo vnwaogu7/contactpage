@@ -1,0 +1,163 @@
+*{
+  box-sizing:border-box;
+}
+
+
+.top{
+  border:2px solid white;
+}
+
+img{
+  border-radius:25px;
+}
+
+h1{
+  font-size:70px;
+  padding:;
+  font-family:"brush script MT" ;
+  text-align:center;
+  color:#2528ac;
+  text-shadow:1px 1px white;
+}
+
+header{
+  background-image:url("http://prcouncil.net/wp-content/uploads/2017/02/Grey-Gradient-Background.png");
+}
+
+header nav{
+  border:2px groove white;
+  background-color:black;
+  padding-right:50px;
+}
+
+header ul{
+  font-size:20px;
+  color:white;
+  display:flex;
+  justify-content:space-between;
+}
+
+a:link {
+  text-decoration:none;
+  color:white;
+}
+
+a:visited{
+  color:white;
+}
+
+a:hover{
+  color:#2528ac;
+}
+
+a:active{
+  color:#00c997;
+}
+
+
+
+.main{
+  margin:auto;
+  background:url("https://us.123rf.com/450wm/mironovak/mironovak1505/mironovak150500116/40041769-zwarte-houten-achtergrond-of-houten-plank-textuur.jpg?ver=6");
+  
+}
+
+h2{
+  font-size:50px;
+  font-family:Arial sans;
+  text-align:center;
+  color:#2528ac;
+  text-shadow:1px 1px white;
+}
+
+p{
+  color:;
+}
+
+.twins{
+  display:flex; 
+  justify-content:space-between;
+  margin:0px 300px;
+}
+
+.box1{
+  color:white;
+  text-align:center
+}
+
+.box2{
+  background:white;
+  border:1px solid blue;
+  width:350px;
+  height:525px;
+  margin-bottom:30px;
+}
+
+ul{
+  font-size:23px;
+  color:blue;
+}
+
+ul p{
+  color:;
+}
+
+ul li{
+  color:black;
+}
+
+.link a:link {
+  text-decoration:none;
+  color:black;
+}
+
+.link a:visited{
+  color:black;
+}
+
+.link a:hover{
+  color:#2528ac;
+}
+
+.link a:active{
+  color:#00c997;
+}
+
+
+footer nav{
+  color:white;
+  display:flex;
+  justify-content:space-between;
+  border:2px groove white;
+  background-color:black;
+  padding-right:50px;
+  
+}
+
+footer ul{
+  font-size:20px;
+  color:white;
+  display:flex;
+
+}
+
+.page li{
+  font-size:20px;
+  margin-left:5px;
+  margin-right:5px;  
+  display:flex;
+}
+
+.icon li{
+  font-size:40px;
+  margin-left:5px;
+  margin-right:5px;
+  display:flex;
+  color:white;
+}
+
+
+.bottom {
+
+  display:block;
+}
