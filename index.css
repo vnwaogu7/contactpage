@@ -2,6 +2,10 @@
   box-sizing:border-box;
 }
 
+body{
+  margin:auto;
+  width:1170px;
+}
 
 .top{
   border:2px solid white;
@@ -78,7 +82,8 @@ p{
 .twins{
   display:flex; 
   justify-content:space-between;
-  margin:0px 300px;
+  margin:auto;
+  width:800px;
 }
 
 .box1{
